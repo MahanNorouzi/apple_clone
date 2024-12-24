@@ -133,7 +133,6 @@ export const AppleID = () => {
         setError(true);
         setEmail("");
         setPassword("");
-        console.log(" i have removed the token");
       });
   };
   const handlesignup = (e) => {
@@ -151,7 +150,7 @@ export const AppleID = () => {
       })
       .catch((error) => {
         console.log("error");
-        console.log(" i have removed the token");
+
         setError5(true);
         setEmail("");
         setPassword("");
