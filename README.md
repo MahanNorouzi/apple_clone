@@ -35,12 +35,10 @@ I built this clone to challenge myself, improve my skills, and push my creativit
 3. Install dependencies:
 ```npm
   npm Install
-
 ```   
 4. Start the app locally
 ```npm
   npm run dev
-
 ```   
 ## Contributing 🤝
 Feel free to fork, create issues, or submit pull requests. Let’s make this even better together! 🙌
